@@ -50,5 +50,4 @@
 
 ---
 
-
-
+![Snake animation](https://github.com/CamilaPeretto/CamilaPeretto/blob/output/github-contribution-grid-snake.svg)
