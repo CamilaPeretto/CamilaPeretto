@@ -49,6 +49,3 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=ffffff&style=for-the-badge)
 
 ---
-
-![Snake animation](https://github.com/CamilaPeretto/CamilaPeretto/blob/output/github-contribution-grid-snake.svg)
-
