@@ -1,69 +1,54 @@
-<h1 align="center">Olá, eu sou <span style="color:#4CAF50;">Camila Peretto</span> 👩‍💻</h1>
-
-<p align="center">
-  <em>Desenvolvedora Front-end | Criativa & apaixonada por tecnologia</em>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/camila-peretto/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/camilaperetto" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c77dff&size=23&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+eu+sou+a+Camila+Peretto!;Bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
 
 ---
 
-## 🚀 Sobre mim
+## 👩‍💻 **Sobre mim**
 
-Sou uma desenvolvedora front-end apaixonada por criar experiências digitais que unem design moderno e performance. Uso HTML5, CSS3 (Flexbox & Grid) e JavaScript para construir interfaces limpas, responsivas e intuitivas.
-
-Além disso, aplico criatividade usando imagens geradas por IA e integração de iframe como Google Maps para deixar meus projetos únicos e interativos.
-
----
-
-## 💻 Habilidades Técnicas
-
-| Front-end         | Ferramentas & Versionamento   | Design & Criatividade          |
-| ----------------- | ----------------------------- | ----------------------------- |
-| HTML5             | Git & GitHub                  | Canva                         |
-| CSS3 (Flexbox/Grid) | VS Code                      |     Figma (básico)            |
-| JavaScript (básico) | Terminal / CLI                | Criação de imagens com IA     |
-| Design Responsivo |                               |                |
+- 🎓 Em constante evolução na área de **Desenvolvimento de Software**.
+- 💼 Atuando como desenvolvedora com foco em entregar soluções flexíveis e escaláveis.
+- 🚀 Curto resolver problemas com soluções elegantes, limpas e que agreguem de verdade no produto.
+- 🌱 Atualmente me aprofundando em **Vue.js** e arquitetura de software.
 
 ---
 
-## 🌟 Projetos em destaque
+### 🌐 **Conecte-se comigo**:
 
-### [CodeFuture 2025](https://camilaperetto.github.io/CodeFuture/)  
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "LinkedIn")](https://www.linkedin.com/in/camila-peretto/)
+   [![Email](https://img.shields.io/badge/Gmail-ca0b4a?style=for-the-badge&logo=gmail&logoColor=white "Email")](mailto:camilaperetto120@gmail.com)
   
-Site institucional para evento de tecnologia, com design moderno e imagens criadas por IA. Integra Google Maps via iframe para localização interativa.
+---
 
-### [Inácio Energy](https://www.inacioenergy.com/)  
+#### 🖥️ **Front-end**
 
-Website para empresa de energia sustentável, com navegação intuitiva e foco em experiência do usuário em múltiplos dispositivos.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=ffffff&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=ffffff&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000000&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=ffffff&style=for-the-badge)
+![Vue.js](https://img.shields.io/badge/Vue.js-42b883?logo=vue.js&logoColor=ffffff&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=ffffff&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=ffffff&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=ffffff&style=for-the-badge)
+
+#### ⚙️ **Back-end**
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=ffffff&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=ffffff&style=for-the-badge)
+![C%23](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=ffffff&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=ffffff&style=for-the-badge)
+
+#### 🗄️ **Banco de Dados**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=ffffff&style=for-the-badge)
 
 ---
 
-## 📫 Me conecte
+### 🛠️ **Ferramentas que uso**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/camila-peretto/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:camilaperetto120@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=ffffff&style=for-the-badge)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=ffffff&style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=ffffff&style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=ffffff&style=for-the-badge)
 
 ---
 
-## ✨ Minha frase favorita
 
-> “Com criatividade e dedicação, transformo linhas de código em experiências digitais memoráveis.”
 
----
-
-<p align="center">Obrigado por visitar meu perfil! 🚀</p>
