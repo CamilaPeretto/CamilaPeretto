@@ -25,15 +25,11 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000000&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=ffffff&style=for-the-badge)
 ![Vue.js](https://img.shields.io/badge/Vue.js-42b883?logo=vue.js&logoColor=ffffff&style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=ffffff&style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=ffffff&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=ffffff&style=for-the-badge)
 
 #### ⚙️ **Back-end**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=ffffff&style=for-the-badge)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=ffffff&style=for-the-badge)
 ![C%23](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=ffffff&style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=ffffff&style=for-the-badge)
 
 #### 🗄️ **Banco de Dados**
 
@@ -43,7 +39,6 @@
 
 ### 🛠️ **Ferramentas que uso**
 
-![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=ffffff&style=for-the-badge)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=ffffff&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=ffffff&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=ffffff&style=for-the-badge)
