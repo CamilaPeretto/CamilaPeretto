@@ -36,6 +36,12 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=ffffff&style=for-the-badge)
 
+#### 🗄️ **Lógica & Armazenamento Web**
+
+![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=ffffff&style=for-the-badge)
+![LocalStorage](https://img.shields.io/badge/LocalStorage-8BC34A?logo=windowsterminal&logoColor=ffffff&style=for-the-badge)
+
+
 ---
 
 ### 🛠️ **Ferramentas que uso**
@@ -43,5 +49,6 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=ffffff&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=ffffff&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=ffffff&style=for-the-badge)
+![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=ffffff&style=for-the-badge)
 
 ---
