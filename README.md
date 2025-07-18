@@ -1,4 +1,5 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c77dff&size=23&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+eu+sou+a+Camila+Peretto!;Bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c77dff&size=32&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+eu+sou+a+Camila+Peretto!;Bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
+
 
 ---
 
