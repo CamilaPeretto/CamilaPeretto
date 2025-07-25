@@ -21,18 +21,20 @@
 
 #### 🖥️ **Front-end**
 
+![Vue.js](https://img.shields.io/badge/Vue.js-42b883?logo=vue.js&logoColor=ffffff&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=ffffff&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=ffffff&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=ffffff&style=for-the-badge)
+![Quasar](https://img.shields.io/badge/Quasar-1976D2?logo=quasar&logoColor=ffffff&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000000&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=ffffff&style=for-the-badge)
-![Vue.js](https://img.shields.io/badge/Vue.js-42b883?logo=vue.js&logoColor=ffffff&style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=ffffff&style=for-the-badge)
+
 
 #### ⚙️ **Back-end**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=ffffff&style=for-the-badge)
-![C%23](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=ffffff&style=for-the-badge)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=ffffff&style=for-the-badge)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=ffffff&style=for-the-badge)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=ffffff&style=for-the-badge)
+![C%23](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=ffffff&style=for-the-badge)
 
 
 #### 🗄️ **Banco de Dados**
