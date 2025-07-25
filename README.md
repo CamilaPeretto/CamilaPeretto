@@ -32,10 +32,14 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=ffffff&style=for-the-badge)
 ![C%23](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=ffffff&style=for-the-badge)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=ffffff&style=for-the-badge)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=ffffff&style=for-the-badge)
+
 
 #### 🗄️ **Banco de Dados**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=ffffff&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=ffffff&style=for-the-badge)
+
 
 #### 🗄️ **Lógica & Armazenamento Web**
 
